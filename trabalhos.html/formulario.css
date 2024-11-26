@@ -1,0 +1,69 @@
+body{
+background-image: url(15187163-fundo-de-site-moderno-futurista-de-conexao-de-mapa-do-mundo-ou-de-pagina-de-capa-para-conceito-de-tecnologia-e-financas-e-empresa-futura-de-educacao-vetor.jpg);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto
+    
+}
+h1{
+    
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+
+   
+    text-align: center;
+}
+.paragrafo1{
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:20px;
+    text-align: center;
+}
+
+
+    
+   
+
+
+th{
+    color: rgb(189, 153, 153);
+    font-size: 17px;
+    font-style: oblique;
+    font-weight: 600;
+}
+
+td{
+    color: white;
+    text-align: center;
+}
+
+.inscricao{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+h2{
+    color: white;
+    font-size: 45px;
+}
+
+
+form{
+    border: 2px solid white;
+    background-color: rgba(5, 4, 4, 0.5); 
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+    padding: 30px;
+    
+  
+}
+    
+    
+
+
+
+
